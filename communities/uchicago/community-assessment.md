@@ -11,31 +11,52 @@ After you've completed these questions, define your community in several short p
 
 ### Definition
 - How would you define your community? Try to be open minded, but here are some examples of ways you could define your community:
-  - Women that use Linux
-  - Girls learning how to code
-  - Students interested in tech in the Central Florida region
-  - Computer Science teachers in the Orange County school district
-  - Online computer programming professors
-  - Hackers in and around London
+-College students who know how to do rudimentary programming but not build products.
+-Budding civictech interest.
+-Desire to give back to surrounding community that does not have computer science education infrastructure.
 
 ### Size
 - How many people are currently in your community?
+-Approximately 1,500 members
+
 - How many would you _like_ to be in your community?
+-Approximately 3,000 members
+
 - Historically, has the group always been about the same size? If not, what brought on that change?
+-Five years ago, CS at UChicago was the 28th most popular major. Now CS is the 8th most popular major. This change came from new job markets being publicized and more people enrolling in CS classes.
 
 ### Resources
 - What is currently available to people in your community to learn about tech?
+-There are some talks that focus on research and occassional workshops held by random 
+-There is a start-up incubator/innovation center very close to campus with its own fab-lab.
+
 - Are there meetups, seminars, online tools, office hours, hackathons?
+-Hack at Uchicago: our general community for all things tech related. There are weekly meetups sometimes sponsored by companies.
+-There are talks held by various companies and research done by the school on some Thursdays.
+-ACM-W: A student run community for women interested in tech and CS. Meets every other Tuesday evening and holds homework sessions on weeks off.
+-FEMMES: A student run CS education outreach organization focused on empowering middle school girls on the South Side of Chicago. Holds weekly Python workshops for a class of 20 girls, and holds annual events in the spring for over 200 attendees. 
+-TechTeam: A student organization focused on supporting civic and nonprofit work by providing web and tech services.
+-Uncommon Hacks: UChicago held its first MLH hackathon last January and is holding one again January 2017.
 
 ### Accessibility
 - How accessible are the current resources in your community?
+-The resources listed above are all free. 
+
 - Are meetings held during hours where people may be working?
+-Most are held in the evening after working hours.
+
 - Is there childcare available?
+-No
+
 - Is there accessibility for people with disabilities?
+-Very limited accessibility for people with disabilities; it's essentially on the person to contact the organization to prepare for their own disabilities.
 
 ### Interests
 - Is your community made up only of computer science students? Are you OK with that?
+-Our community is made up of a mix of majors; I like it that way.
+
 - Is your community open to other topics, or are their interests very specific?
+-Our community is open to everything from theory and research to civictech and hacking.
 
 ### Goals
 - Why do people get involved in your community?
