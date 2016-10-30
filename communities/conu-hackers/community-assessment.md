@@ -31,7 +31,7 @@
 - Establishing a hacker space on campus is nearly impossible as the University is located in the city with space being expesnive and limited.
 
 ### Communication
-- The community communicates almost 100% through the Facebook group. There is a newsletter that gets used at most once a month. There exists a Twitter account that is currently not active. A regular newsletter could be beneficial, however the use of Twitter would not ve effective for daily communications. FInding other means of communications would be great to be able to expand and grow the community.
+- The community communicates almost 100% through the Facebook group. There is a newsletter that gets used at most once a month. There exists a Twitter account that is currently not active. A regular newsletter could be beneficial, however the use of Twitter would not be effective for daily communications. Finding other means of communications would be great to be able to expand and grow the community.
 
 ### Culture
 - The community is welcoming to new people, however it is only encouraged to share tech related items. 
