@@ -33,5 +33,5 @@
 - The community communicates almost 100% through the Facebook group. There is a newsletter that gets used at most once a month. There exists a Twitter account that is currently not active. A regular newsletter could be beneficial, however the use of Twitter may not be. Other means of communications would be great to expand and grow the community. 
 
 ### Culture
-The community is welcoming to new people, however it is only encouraged to share tech related items. 
-A policy or procedure would need to be established and documented to be able to handle arising disagreements. 
+- The community is welcoming to new people, however it is only encouraged to share tech related items. 
+- A policy or procedure would need to be established and documented to be able to handle arising disagreements. 
