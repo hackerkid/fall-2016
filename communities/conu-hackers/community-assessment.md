@@ -11,26 +11,27 @@
 ### Resources
 - The resources available to people in the community are average. The community is provided with articles about new and relevant topics in tech. 
 - Utilizing the GitHub organization page to provide online tutorials, articles, and much more is an objective.
-- Without a permanenet space, the community is unable to hold office hours and therefore communicates mainly through online messaging (e-mails, Facebook chat, Facebook group, etc.) 
+- Without a permanenet space, the community is unable to hold office hours and therefore communicates mainly through online messaging (e-mails, Facebook chat, Facebook group, etc.)
+- ConUHacks, the annual Concordia hackathon, is hosted in January for students to come together and collaborate on projects.
 
 ### Accessibility
-- Providing accessbilities to those who may not check Facebook frequently would be an objective i.e. uncovering new means of communication to reach as many members of the community in one place.
+- Providing accessbilities to those who may not check Facebook frequently would be an objective i.e. uncovering new means of communication to reach as many members of the community in one place (whether it be through Slack or some form of online communication service).
 - Providing accessibility for people with disabilities is an objective. 
 
 ### Interests
-- The community consists mainly of computer science and engineering students. There exists non-computer science and engineering students, however this number is so minimal it is hardly mentionable. The community _may_ be interested in other topics, however with limited time and ressources resources it is difficult to consider.  
+- The community consists mainly of computer science and engineering students. There exists non-computer science and engineering students, however this number is very small. The community _may_ be interested in other topics, however with limited time and ressources it is difficult to consider.  
 
 ### Goals
 - Members get involved in the community, because they are interested in collaborating to learn and compete in hackathons. 
-- These members are interested in improving their skills and securing internships and fulltimes jobs. 
-- A main Goal would be to utilize the GitHub organization page to provide a hub for collaborating on open-source projects with other students. The obejctive would be to grow their skills, give back to the community, create productive systems, and build their CV.
+- These members are interested in improving their skills and securing internships + fulltimes jobs. 
+- A main goal would be to utilize the GitHub organization page to provide a hub for collaborating on open-source projects with other students. The obejctive would be to grow their skills, give back to the community, create productive systems, and build their CV.
 
 ### Location
-- The community is currently based solely online, and solely on Facebook (there does exist a website). 
+- The community is currently based solely online through a Facebook group (there does exist a website). 
 - Establishing a hacker space on campus is nearly impossible as the University is located in the city with space being expesnive and limited.
 
 ### Communication
-- The community communicates almost 100% through the Facebook group. There is a newsletter that gets used at most once a month. There exists a Twitter account that is currently not active. A regular newsletter could be beneficial, however the use of Twitter may not be. Other means of communications would be great to expand and grow the community. 
+- The community communicates almost 100% through the Facebook group. There is a newsletter that gets used at most once a month. There exists a Twitter account that is currently not active. A regular newsletter could be beneficial, however the use of Twitter would not ve effective for daily communications. FInding other means of communications would be great to be able to expand and grow the community.
 
 ### Culture
 - The community is welcoming to new people, however it is only encouraged to share tech related items. 
