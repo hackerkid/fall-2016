@@ -60,30 +60,70 @@ After you've completed these questions, define your community in several short p
 
 ### Goals
 - Why do people get involved in your community?
+-I like to believe its about making a more diverse community. Mostly, it's friends bringing friends to try to include as many people as we can.
+
 - Are they students hoping to get a degree?
+-Yes.
+
 - Are they trying to ramp-up to get a job?
+-Yes.
+
 - Are they passionate about developing, regardless of their major?
+-No, but there is potential.
+
 - What activities and goals can you set for your community based on their existing goals?
+-I would like to support local hackathon movements and give people the opportunity to learn more about developing/making.
 
 ### Location
 - Where does your community currently gather?
+-We currently only have one or two rooms on campus for the CS events. We also have space at the local incubator but that's scheduled in advance. We also book the computer science labs if they are available.
+
 - Is it an online-only group so far, or is there a place where people can meet?
+-It's more of an in-person group actually.
+
 - Is there parking, and if so, is it free?
+-I do believe there is parking in some places on campus, it is not free though.
+
 - Is there public transportation available to and from meet-ups?
+-There are various free shuttle services on campus that run for almost the whole day.
+
 - Is the location accessible to those both on and off campus?
+-More accessible to those off-campus than on.
+
 - How much does it cost to use the space?
+-Unknown
+
 - How flexible is the space for different types of presentations and meetings?
+-Rather flexible, we have hosted interview prep, hackathons, corporate talks, and homework nights all in the same place.
+
 - How many people can it fit?
+-I believe around 250(?).
+
 - Is there comfortable seating for all shapes and sizes?
+-Yes.
+
 - Is there water or snacks available nearby?
+-Yes.
 
 ### Communication
 - How does your community get in touch with one another?
+-Facebook events and the various school listhosts.
+
 - Is there an email group, a GitHub organization, a Twitter account, a Facebook group, a chat room or channel?
+-There's an email group, and a Facebook group.
+
 - Could your organization benefit from one or more of those, or another way of communicating?
+-We would benefit from broadcasting beyond the current infrastructure to engage an audience that may not have subscribed to our channels.
 
 ### Culture
 - How welcoming is your community to new people and new ideas?
+-Depends on who you meet and where you go, but I would say that generally the department and the community are rather open to new people and ideas.
+
 - What happens if there is a disagreement?
+-N/A. Students generally feel comfortable to report disagreements or incidents to CS faculty or the Title IX coordinator.
+
 - Are there any policies or procedures in place, and are they documented?
+-Not to my knowledge. I know that the CS department is good about addressing microaggressions and encouraging an inclusive classroom.
+
 - How will you personally handle it?
+-I try to hear both sides of the argument and use an unbiased tone to deliver what I personally believe to be fair. I do not allow sexist or racist beliefs to go by unquestion.
