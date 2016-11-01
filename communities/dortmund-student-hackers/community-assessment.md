@@ -21,6 +21,7 @@ It seems like they are trying to get in touch with companies, that are located a
 Some of them are passionate about developing, others seem to be very passionate about one particular technology and one particular use of it.
 
 Goals: set up monthly meetups with tech talks from students (so the students can get into public speaking) and with speakers from local companies.
+Maybe lighting talks? 
 
 ### Location
 Dortmund Campus, lot's of rooms, that can be used by students for free.
@@ -31,4 +32,4 @@ Whatsapp.
 Other means of communication could be beneficial.
 
 ### Culture
-Not sure how it really is. 
+Not sure how it really is.
