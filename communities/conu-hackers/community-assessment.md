@@ -25,6 +25,7 @@
 - Members get involved in the community, because they are interested in collaborating to learn and compete in hackathons. 
 - These members are interested in improving their skills and securing internships + fulltimes jobs. 
 - A main goal would be to utilize the GitHub organization page to provide a hub for collaborating on open-source projects with other students. The obejctive would be to grow their skills, give back to the community, create productive systems, and build their CV.
+- In addition to the main goal, ensuring the community is open and welcoming to all participants must be maintained at all times. 
 
 ### Location
 - The community is currently based solely online through a Facebook group (there does exist a website). 
