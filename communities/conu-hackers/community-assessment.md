@@ -16,7 +16,7 @@
 
 ### Accessibility
 - Providing accessbilities to those who may not check Facebook frequently would be an objective i.e. uncovering new means of communication to reach as many members of the community in one place (whether it be through Slack or some form of online communication service).
-- Providing accessibility for people with disabilities is an objective. 
+- Providing accessibility for people with disabilities is an objective (ensure website, tutorials, etc when being created are mindful of those with disabilities)  
 
 ### Interests
 - The community consists mainly of computer science and engineering students. There exists non-computer science and engineering students, however this number is very small. The community _may_ be interested in other topics, however with limited time and ressources it is difficult to consider.  
@@ -24,7 +24,7 @@
 ### Goals
 - Members get involved in the community, because they are interested in collaborating to learn and compete in hackathons. 
 - These members are interested in improving their skills and securing internships + fulltimes jobs. 
-- A main goal would be to utilize the GitHub organization page to provide a hub for collaborating on open-source projects with other students. The obejctive would be to grow their skills, give back to the community, create productive systems, and build their CV.
+- A main goal would be to utilize the GitHub organization page to provide a hub for collaborating on open-source projects with other students. Their obejctive would be to grow their skills, give back to the community, create useful  systems, and build their CV.
 - In addition to the main goal, ensuring the community is open and welcoming to all participants must be maintained at all times. 
 
 ### Location
@@ -32,7 +32,9 @@
 - Establishing a hacker space on campus is nearly impossible as the University is located in the city with space being expesnive and limited.
 
 ### Communication
-- The community communicates almost 100% through the Facebook group. There is a newsletter that gets used at most once a month. There exists a Twitter account that is currently not active. A regular newsletter could be beneficial, however the use of Twitter would not be effective for daily communications. Finding other means of communications would be great to be able to expand and grow the community.
+- The community communicates almost 100% through the Facebook group. There is a newsletter that gets used at most once a month. 
+- There exists a Twitter account that is currently not active. 
+- Finding other means of communications would be great to be able to expand and grow the community.
 
 ### Culture
 - The community is welcoming to new people, however it is only encouraged to share tech related items. 
