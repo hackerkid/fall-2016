@@ -3,7 +3,8 @@
 Students interested in tech at the Dortmund campus.
 
 ### Size
-FH Dortmund ca. 12k students, TU Dortmund ca 30k students. Few thousand CS students + other related disciplines.
+The community right now consists of 10 people.
+FH Dortmund ca. 12k students, TU Dortmund ca 30k students. Few thousand CS students + other related disciplines, so there is lots of potential.
 
 ### Resources
 A hacker space.
@@ -21,7 +22,7 @@ It seems like they are trying to get in touch with companies, that are located a
 Some of them are passionate about developing, others seem to be very passionate about one particular technology and one particular use of it.
 
 Goals: set up monthly meetups with tech talks from students (so the students can get into public speaking) and with speakers from local companies.
-Maybe lighting talks? 
+Maybe lighting talks?
 
 ### Location
 Dortmund Campus, lot's of rooms, that can be used by students for free.
