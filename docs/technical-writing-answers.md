@@ -34,7 +34,7 @@ On the other hand, creating content that is more conceptual in nature, let's say
 
 If you are planning on creating content for Open Source projects or conceptual  content (for a blog or something similar), focus on topics you have are interested in, you are more likely to finish a document if you would benefit or be interested in the final product as a reader.
 
-- @beardofedu
+-@beardofedu
 
 @kim-codes
 
@@ -48,11 +48,15 @@ When creating software documentation, the team I was on used a 60-30-10 rule to 
 - 30: Below Average User - User unfamiliar with using software to complete a specific task. Uncomfortable using a computer for day-to-day activities. Need content that some would identify as incredibly basic / rudimentary. Some examples of content I created for this range included: Identifying how to use a mouse and What a keyboard shortcut was.
 - 60: Typical User - Potentially had previous experience using software to complete similar tasks. Comfortable using a computer to complete daily activities. Borderline expert user but still gets hung up on some of the advanced uses of the software (either needs to look at documentation to complete the task or ask a co-worker for assistance). Some examples of content at this level includes: Performing X task (essentially 'out of the box' workflows aka what the user bought to software to accomplish) and similar content.    
 - 10: Advanced User - Learns software to complete daily tasks easily. Looks for workarounds or shortcuts to complete tasks. Identified as the 'go-to person' when teammates encounter issues. Potentially creates internal content for their team on how they should be utilizing the software. Some examples of content at this level includes: Administrating your team on <software> and Creating custom workflows.
-- @beardofedu
+
+-@beardofedu
 
 ```Is writing in first person for technical writing 'bad'?```
 
-Answer
+My experience as a technical writer revolved around creating content for software and providing instructions for how to use said software. Using 'first person' language in that capacity wouldn't have been helpful for the user and really didn't fit with the overall narrative of the content I was producing. When creating instructions for a product, you are typically identifying what the *user* should be doing so using *I* or *We* wouldn't really fit.
+If you are creating content for a technical blog (product review, researching a new trend, etc.) the use of first person writing might seem viable, however a basic Google search for `first person technical writing` identified that most scientific documentation guidelines prefer avoiding the use of *I* and *We* (It was found that vs I found). Off the top of my head, it isn't uncommon to see something like 'We tested the iPad's battery by....' in a product review, so it might be best to identify how you want to relay information to your reader and be consistent about it.
+
+-@beardofedu
 
 ```If it would be possible to see a 'bad' technical post vs a 'good' technical post.```
 
