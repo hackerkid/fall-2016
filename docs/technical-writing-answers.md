@@ -57,3 +57,7 @@ Answer
 ```If it would be possible to see a 'bad' technical post vs a 'good' technical post.```
 
 Answer
+
+### Related Links
+Blog: [I'd Rather Be Writing](http://idratherbewriting.com/)
+Conferences / Meetups: [Write the Docs](http://www.writethedocs.org/)
