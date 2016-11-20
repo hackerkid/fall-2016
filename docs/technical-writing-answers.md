@@ -18,7 +18,10 @@ Answer
 
 ```How to write about technical topics when you aren't confident about it```
 
-Answer
+I think the adage 'fake it until you make it' is perfect for this question. It isn't uncommon for a technical writer to create content for something they aren't completely familiar with. When I started as a technical writer I created content for Laboratory Information Systems (aka software for hospitals) and rarely stepped into a hospital let alone familiar with the software lab technicians were using to review my tests. The first thing you need to remember is you aren't alone when trying to create content for something, and there are more knowledgeable individuals who would love to make sure their content is documented accurately. Using an open source project as an example, if you were to volunteer to create content for an open source project that you were interested in but weren't at an 'expert knowledge level', I would imagine the project owner would just be thrilled that someone wanted to create the content they didn't have the time to create. Additionally, your inexperience can be viewed as a positive, who better to create content on a project than a user who isn't an expert? You are going to run into the novice-level problems that most project owners probably won't identify.
+Without diving into this topic for pages and pages, I think the biggest thing to remember is, everyone has been a novice before and your inexperience with something shouldn't be a detractor to creating content. As silly as it sounds, if you believe in your ability to do the necessary research to create awesome content, you can 'literally' write about anything.
+
+-@beardofedu
 
 ```Best practices for writing```
 
@@ -38,9 +41,16 @@ If you are planning on creating content for Open Source projects or conceptual  
 
 @kim-codes
 
-```How does technical writing differ from any other type of writing ? What should we pay attention to/be mindful of?```
+```How does technical writing differ from any other type of writing? What should we pay attention to/be mindful of?```
 
-Answer
+I remember taking a creative writing class in college as the only 'technical writing' major and the teacher reference my degree choice as a 'writer who wanted to make a living as opposed to being creative' which needless to say didn't get a standing ovation from me...
+
+Depending on your content, my background is software documentation, technical writing is typically more 'process driven' aka how does a user successfully complete a task. The field definitely has room for creativity, but typically in how you can deliver content more efficiently (what delivery method will actually get views? are users able to read your instructions and actually use them? etc.) as opposed to say marketing writing where you make a pair of pants sound like the only thing that is keeping you from enjoying your life (subtle jab at marketing writing).
+
+My personal opinion on technical writing is to deliver content in an easy-to-read format and get the user to their desired destination as quickly and efficiently as possible. If we used giving directions as an example. informing a driver about the lefts and rights they need to take to successfully reach their destination is important, informing them that their is an amazing diner along the way is extraneous and takes away from their desired goal.
+
+-@beardofedu
+
 
 ```How in-depth do we go? Does it depend on our audience? Is that something we should define before (define our audience)?```
 
