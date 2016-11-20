@@ -19,13 +19,22 @@ Answer
 ```How to write about technical topics when you aren't confident about it```
 
 I think the adage 'fake it until you make it' is perfect for this question. It isn't uncommon for a technical writer to create content for something they aren't completely familiar with. When I started as a technical writer I created content for Laboratory Information Systems (aka software for hospitals) and rarely stepped into a hospital let alone familiar with the software lab technicians were using to review my tests. The first thing you need to remember is you aren't alone when trying to create content for something, and there are more knowledgeable individuals who would love to make sure their content is documented accurately. Using an open source project as an example, if you were to volunteer to create content for an open source project that you were interested in but weren't at an 'expert knowledge level', I would imagine the project owner would just be thrilled that someone wanted to create the content they didn't have the time to create. Additionally, your inexperience can be viewed as a positive, who better to create content on a project than a user who isn't an expert? You are going to run into the novice-level problems that most project owners probably won't identify.
+
 Without diving into this topic for pages and pages, I think the biggest thing to remember is, everyone has been a novice before and your inexperience with something shouldn't be a detractor to creating content. As silly as it sounds, if you believe in your ability to do the necessary research to create awesome content, you can 'literally' write about anything.
 
 -@beardofedu
 
 ```Best practices for writing```
 
-Answer
+From a software documentation thought process, identify your needs and wants early and often. It might be awesome to create content for an extreme edge-case because you are excited about it, but how many users are actually going to need that content over some basic workflow content? Try and find the issues that the user is going to run into when going through a process and highlighting those issues in the documentation with 'notes' or 'labeled content'.
+
+Iteration is key. Before I started teaching GitHub I transition documentation from CHM-based documents to HTML-based documentation that could easily be updated as the product changed. Don't be afraid to release content that covers 90% of the use cases for a product and adjusting on the fly as time allows. It isn't uncommon for a feature to be incomplete by the time documentation is needed, get your documentation as close to done as possible and adjust or fix it as needed once the product has been released.
+
+Take chances; change your the delivery format (users accustomed to paper manuals? move to web-based content as an example), encourage users to discuss issues on a forum monitored by the documentation team as opposed to sending emails to support (MadCap Software fostered an amazing forum community which I'm sure reduced support ticket submission), etc.
+
+Encourage users to suggest changes or provide their own content. Advanced users enjoy providing how they accomplish tasks in a more streamlined process than the one you provide documentation for. Adjust your documentation based on the input from users and your documentation will definitely benefit and be better.
+
+-@beardofedu
 
 ```How to get ideas on technical writing```
 
@@ -51,7 +60,6 @@ My personal opinion on technical writing is to deliver content in an easy-to-rea
 
 -@beardofedu
 
-
 ```How in-depth do we go? Does it depend on our audience? Is that something we should define before (define our audience)?```
 
 When creating software documentation, the team I was on used a 60-30-10 rule to identify what content we should focus on. The breakdown for this rule looked something like this:
@@ -64,6 +72,7 @@ When creating software documentation, the team I was on used a 60-30-10 rule to 
 ```Is writing in first person for technical writing 'bad'?```
 
 My experience as a technical writer revolved around creating content for software and providing instructions for how to use said software. Using 'first person' language in that capacity wouldn't have been helpful for the user and really didn't fit with the overall narrative of the content I was producing. When creating instructions for a product, you are typically identifying what the *user* should be doing so using *I* or *We* wouldn't really fit.
+
 If you are creating content for a technical blog (product review, researching a new trend, etc.) the use of first person writing might seem viable, however a basic Google search for `first person technical writing` identified that most scientific documentation guidelines prefer avoiding the use of *I* and *We* (It was found that vs I found). Off the top of my head, it isn't uncommon to see something like 'We tested the iPad's battery by....' in a product review, so it might be best to identify how you want to relay information to your reader and be consistent about it.
 
 -@beardofedu
