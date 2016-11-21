@@ -6,17 +6,17 @@ The following document was created by :octocat: Jenn Leaver (@jleaver) and :octo
 
 @gillchristian
 
-```Best practices for writing, not only how the article/post/whatever should look like but also about the process of writing it?```
+#### Best practices for writing, not only how the article/post/whatever should look like but also about the process of writing it?
 
 Answer
 
-```How to find topics to write about?```
+#### How to find topics to write about?
 
 Answer
 
 @ruxiang05
 
-```How to write about technical topics when you aren't confident about it```
+#### How to write about technical topics when you aren't confident about it?
 
 I think the adage 'fake it until you make it' is perfect for this question. It isn't uncommon for a technical writer to create content for something they aren't completely familiar with. When I started as a technical writer I created content for Laboratory Information Systems (aka software for hospitals) and rarely stepped into a hospital let alone familiar with the software lab technicians were using to review my tests. The first thing you need to remember is you aren't alone when trying to create content for something, and there are more knowledgeable individuals who would love to make sure their content is documented accurately. Using an open source project as an example, if you were to volunteer to create content for an open source project that you were interested in but weren't at an 'expert knowledge level', I would imagine the project owner would just be thrilled that someone wanted to create the content they didn't have the time to create. Additionally, your inexperience can be viewed as a positive, who better to create content on a project than a user who isn't an expert? You are going to run into the novice-level problems that most project owners probably won't identify.
 
@@ -24,7 +24,7 @@ Without diving into this topic for pages and pages, I think the biggest thing to
 
 -@beardofedu
 
-```Best practices for writing```
+#### Best practices for writing
 
 From a software documentation thought process, identify your needs and wants early and often. It might be awesome to create content for an extreme edge-case because you are excited about it, but how many users are actually going to need that content over some basic workflow content? Try and find the issues that the user is going to run into when going through a process and highlighting those issues in the documentation with 'notes' or 'labeled content'.
 
@@ -36,7 +36,7 @@ Encourage users to suggest changes or provide their own content. Advanced users 
 
 -@beardofedu
 
-```How to get ideas on technical writing```
+#### How to get ideas on technical writing
 
 For this question, I  think you can group 'technical writing' into two categories: Software Documentation and Technical Concepts content. My experience as a technical writer focused on developing content for applications that were in development or already released for internal/external use.
 
@@ -50,7 +50,7 @@ If you are planning on creating content for Open Source projects or conceptual  
 
 @kim-codes
 
-```How does technical writing differ from any other type of writing? What should we pay attention to/be mindful of?```
+#### How does technical writing differ from any other type of writing? What should we pay attention to/be mindful of?
 
 I remember taking a creative writing class in college as the only 'technical writing' major and the teacher reference my degree choice as a 'writer who wanted to make a living as opposed to being creative' which needless to say didn't get a standing ovation from me...
 
@@ -60,7 +60,7 @@ My personal opinion on technical writing is to deliver content in an easy-to-rea
 
 -@beardofedu
 
-```How in-depth do we go? Does it depend on our audience? Is that something we should define before (define our audience)?```
+#### How in-depth do we go? Does it depend on our audience? Is that something we should define before (define our audience)?
 
 When creating software documentation, the team I was on used a 60-30-10 rule to identify what content we should focus on. The breakdown for this rule looked something like this:
 - 30: Below Average User - User unfamiliar with using software to complete a specific task. Uncomfortable using a computer for day-to-day activities. Need content that some would identify as incredibly basic / rudimentary. Some examples of content I created for this range included: Identifying how to use a mouse and What a keyboard shortcut was.
@@ -69,7 +69,7 @@ When creating software documentation, the team I was on used a 60-30-10 rule to 
 
 -@beardofedu
 
-```Is writing in first person for technical writing 'bad'?```
+#### Is writing in first person for technical writing 'bad'?
 
 My experience as a technical writer revolved around creating content for software and providing instructions for how to use said software. Using 'first person' language in that capacity wouldn't have been helpful for the user and really didn't fit with the overall narrative of the content I was producing. When creating instructions for a product, you are typically identifying what the *user* should be doing so using *I* or *We* wouldn't really fit.
 
@@ -77,50 +77,54 @@ If you are creating content for a technical blog (product review, researching a 
 
 -@beardofedu
 
-```If it would be possible to see a 'bad' technical post vs a 'good' technical post.```
+#### If it would be possible to see a 'bad' technical post vs a 'good' technical post.
 
 Answer
 
 @shubheksha
 
-```How much do you need to know about the topic?```
+#### How much do you need to know about the topic?
 
 Answer
 
-```How do we decide the difficulty level of the post?```
+#### How do we decide the difficulty level of the post?
 
 Answer
 
-```Average amount of research needed for a topic you're not to familiar with/an expert on?```
+#### Average amount of research needed for a topic you're not to familiar with/an expert on?
 
 Answer
 
-```How to choose a title that caters to the majority of the audience w/o evading anyone?```
+#### How to choose a title that caters to the majority of the audience w/o evading anyone?
 
 Answer
 
 @lionex
 
-```How do we find or identify an audience?```
+#### How do we find or identify an audience?
+
+When I created content outside of typical software documentation, I created content that would benefit me. When I first started using a software tool, MadCap Flare, I found that there was a lack of content for people who were trying to push the software past the typical use-case so I began creating content for how I was implementing various features that were outside the scope of the out-of-the-box functionality.
+
+My suggestion would be to create content that benefits you or a group of people you know and 'if you write it, they will come'-mentality your project. Don't focus on building your audience as the key reason to begin writing. Focus on providing a solution to an existing gap in the available content and your audience should organically grow.
+
+One way to find your audience is to review popular forums that your audience may use. This might help identify topics that your potential audience would be interested in reading. 
+
+#### What helps to reach a wide audience?
 
 Answer
 
-```What helps to reach a wide audience?```
+#### How should we approach pedagogical writing, and what kinds of supporting or supplementary materials should we provide?
 
 Answer
 
-```How should we approach pedagogical writing, and what kinds of supporting or supplementary materials should we provide?```
+#### What style, in a literary and grammatical sense, do we employ in technical writing?
 
 Answer
 
-```What style, in a literary and grammatical sense, do we employ in technical writing?```
+#### How can we create effective supporting documents? (I mean items like meeting notes, design specs, etc)
 
 Answer
 
-```How can we create effective supporting documents? (I mean items like meeting notes, design specs, etc)```
-
-Answer
-
-### Related Links
+## Related Links
 Blog: [I'd Rather Be Writing](http://idratherbewriting.com/)
 Conferences / Meetups: [Write the Docs](http://www.writethedocs.org/)
