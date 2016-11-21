@@ -81,6 +81,46 @@ If you are creating content for a technical blog (product review, researching a 
 
 Answer
 
+@shubheksha
+
+```How much do you need to know about the topic?```
+
+Answer
+
+```How do we decide the difficulty level of the post?```
+
+Answer
+
+```Average amount of research needed for a topic you're not to familiar with/an expert on?```
+
+Answer
+
+```How to choose a title that caters to the majority of the audience w/o evading anyone?```
+
+Answer
+
+@lionex
+
+```How do we find or identify an audience?```
+
+Answer
+
+```What helps to reach a wide audience?```
+
+Answer
+
+```How should we approach pedagogical writing, and what kinds of supporting or supplementary materials should we provide?```
+
+Answer
+
+```What style, in a literary and grammatical sense, do we employ in technical writing?```
+
+Answer
+
+```How can we create effective supporting documents? (I mean items like meeting notes, design specs, etc)```
+
+Answer
+
 ### Related Links
 Blog: [I'd Rather Be Writing](http://idratherbewriting.com/)
 Conferences / Meetups: [Write the Docs](http://www.writethedocs.org/)
