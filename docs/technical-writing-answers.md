@@ -107,7 +107,9 @@ When I created content outside of typical software documentation, I created cont
 
 My suggestion would be to create content that benefits you or a group of people you know and 'if you write it, they will come'-mentality your project. Don't focus on building your audience as the key reason to begin writing. Focus on providing a solution to an existing gap in the available content and your audience should organically grow.
 
-One way to find your audience is to review popular forums that your audience may use. This might help identify topics that your potential audience would be interested in reading. 
+One way to find your audience is to review popular forums that your audience may use. This might help identify topics that your potential audience would be interested in reading.
+
+-@beardofedu
 
 #### What helps to reach a wide audience?
 
@@ -123,7 +125,13 @@ Answer
 
 #### How can we create effective supporting documents? (I mean items like meeting notes, design specs, etc)
 
-Answer
+When creating content, I typically write from a 'less is more' perspective and use additional links to provide context outside of the scope of the identified solution my document is providing. For instance, if I was creating content for "Adding a User Account", the primary content for the document would identify how to add a user account to the system and I would provide additional links to things to either related content or typical next steps. As an example, I might include links to content related to 'Modifying an Existing User Account' or 'Deleting a User Account', other content like 'Creating Teams' or 'Organizing User Accounts' might be identified as content that is useful for a small subset of users and not directly related to the task at hand. I might also link to things more descriptive or reference like as opposed to linking to additional processes. An article like 'User Accounts' might provide context as to why you would create a user account, but isn't necessary to complete the process of creating a new user account.
+
+To create effective supporting materials, identify what questions your user or reader might encounter while using your materials and create content that can be read separately from the article they are currently reading. In terms of tools I have used to create said content, outside of typical text editors, I have used SnagIt and Gimp/PhotoShop to create images, Camtasia and ScreenFlow to create videos, and have started using tools to create .gifs as opposed to full fledged videos for minor processes (but the software name escapes me at the moment).
+
+Although you might be considered an expert at the topic you are creating content for, trying to read your content from the perspective of your typical user can provide a great context for what content you need to add to your documentation. Using analytical tools like Google Analytics can help identify if the supporting documentation you are creating is being utilized by your readers or if it being ignored. If you can identify that your 'beginner' level content is getting a lot of traffic, creating more supporting materials that provides context to why you would perform a task is an example of creating effective supporting documents that your audience is 'demanding'.
+
+-@beardofedu 
 
 ## Related Links
 Blog: [I'd Rather Be Writing](http://idratherbewriting.com/)
