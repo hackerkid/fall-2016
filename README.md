@@ -14,6 +14,6 @@ Week 4 | Mon, 2016-11-14   | Sun, 2016-11-20  | Open source & Career guest talk
 Week                      | Starts            | Ends             | General Topics
 ---                       | ---               | ---              | ---
 Week 5                    | Mon, 2016-11-21   | Sun, 2016-11-27  | Technical writing speaker, prepare to execute on plan
-Week 6                    | Mon, 2016-11-28   | Sun, 2016-12-04  | Execute on plan, practice presentations
-Week 7                    | Mon, 2016-12-05   | Sun, 2016-12-11  | Reflection and evaluation of execution
+Week 6                    | Mon, 2016-11-28   | Sun, 2016-12-04  | Execute on plan, practice presentations, guest talk
+Week 7                    | Mon, 2016-12-05   | Sun, 2016-12-11  | Reflection and evaluation of execution, What's Next guest talk
 Week 8                    | Mon, 2016-12-12   | Sun, 2016-12-18  | Community impact presentations
