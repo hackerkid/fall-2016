@@ -165,11 +165,17 @@ Something to consider when trying to identify your audience or the number of peo
 
 Obviously writing content as a technical evangelist sometimes requires you to create content that identifies how _your_ product solves the problems people face regularly. With that in mind, some posts can just simply mention, 'if you have questions on how Acme Industries can help secure your information, hit us up' and just providing your point of view on current events or advancements in a specific field.
 
-Find your voice and the things you are passionate within a certain field. I really like business continuity and disaster recovery planning, so if I was going to write about information security, a blog that I would create content for would include information about those two items as well as posts about the product(s) I was responsible for promoting, even if the product(s) had limited functionality within that space. 
+Find your voice and the things you are passionate within a certain field. I really like business continuity and disaster recovery planning, so if I was going to write about information security, a blog that I would create content for would include information about those two items as well as posts about the product(s) I was responsible for promoting, even if the product(s) had limited functionality within that space.
+
+-@beardofedu
 
 #### How should we approach pedagogical writing, and what kinds of supporting or supplementary materials should we provide?
 
-Answer
+I briefly touched on this in another answer, but when you set out to create content focus on the specific task at hand. If I was to use an example of creating a blog on GitHub Pages, the primary content would discuss the different steps necessary to successfully create the blog. As far as supporting / supplementary content, I might include things like Markdown 'cheat sheets', additional GitHub Pages themes, advanced topics outside of the scope of a traditional blog setup, and other content along those lines.
+
+Essentially, your content should answer the question or process at hand, then supply additional content that provides context to members of your audience on both ends of the 'knowledge-level spectrum'.
+
+-@beardofedu
 
 #### What style, in a literary and grammatical sense, do we employ in technical writing?
 
