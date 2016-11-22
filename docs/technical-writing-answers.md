@@ -161,7 +161,11 @@ One way to find your audience is to review popular forums that your audience may
 
 #### What helps to reach a wide audience?
 
-Answer
+Something to consider when trying to identify your audience or the number of people you are reaching with your content is what percentage of the population your expected audience takes up. If you are tasked with creating content on Information Security you probably aren't going to be the most 'liked' or 'shared' link on Facebook, but you should be focusing on getting experts in the field to appreciate your content. Building a reputable brand with other established individuals in your field is a great way of reaching a broader audience.
+
+Obviously writing content as a technical evangelist sometimes requires you to create content that identifies how _your_ product solves the problems people face regularly. With that in mind, some posts can just simply mention, 'if you have questions on how Acme Industries can help secure your information, hit us up' and just providing your point of view on current events or advancements in a specific field.
+
+Find your voice and the things you are passionate within a certain field. I really like business continuity and disaster recovery planning, so if I was going to write about information security, a blog that I would create content for would include information about those two items as well as posts about the product(s) I was responsible for promoting, even if the product(s) had limited functionality within that space. 
 
 #### How should we approach pedagogical writing, and what kinds of supporting or supplementary materials should we provide?
 
@@ -171,7 +175,7 @@ Answer
 
 At GitHub, we use a conversational voice and tone. We try to "write like a human," which means we avoid robotic, formal language. By using [plain language](https://pages.18f.gov/content-guide/plain-language/), we increase comprehension and accessibility. It's easier for people to understand the topics we're writing about. We never want the language to be something that users need to overcome. They're reading the documentation so they can solve a difficult problem they're facing and the language we use to help them should be clear, concise, and free of jargon.
 
-We're also mindful of the difference between [voice and tone](http://voiceandtone.com/). Our GitHub voice is friendly, conversational, and helpful. The tone we use is dependent on the topic we're discussing. For instance, the tone we use for error messages, warnings about data loss, or issues of safety are very different than the tone we use for articles about fun UI features. To understand the _tone_ you should use when talking about a topic, you should put yourselves in the user's shoes and understand what their state of mind may be when they're approaching that topic. If they've just gotten an error message about catastrophic data loss, finding an article about their issue with lighthearted language won't feel appropriate. 
+We're also mindful of the difference between [voice and tone](http://voiceandtone.com/). Our GitHub voice is friendly, conversational, and helpful. The tone we use is dependent on the topic we're discussing. For instance, the tone we use for error messages, warnings about data loss, or issues of safety are very different than the tone we use for articles about fun UI features. To understand the _tone_ you should use when talking about a topic, you should put yourselves in the user's shoes and understand what their state of mind may be when they're approaching that topic. If they've just gotten an error message about catastrophic data loss, finding an article about their issue with lighthearted language won't feel appropriate.
 
 -@jleaver
 
