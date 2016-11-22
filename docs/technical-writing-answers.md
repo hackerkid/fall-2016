@@ -1,6 +1,7 @@
 # Intro
 The following document was created by :octocat: Jenn Leaver (@jleaver) and :octocat: Matt Desmond (@beardofedu) based on [questions asked](https://github.com/campus-experts/fall-2016/issues/32) by some of the members Campus Experts program.  
 
+Video Link: https://vimeo.com/192706314/ee4a9e52ab
 
 ## Questions
 
