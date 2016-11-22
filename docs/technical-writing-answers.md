@@ -182,7 +182,9 @@ Although you might be considered an expert at the topic you are creating content
 -@beardofedu
 
 ## Related Links
-- Blogs: [I'd Rather Be Writing](http://idratherbewriting.com/) | [Docs Like Code](http://docslikecode.com/)
-- Conferences / Meetups: [Write the Docs](http://www.writethedocs.org/)
+- Blogs: [I'd Rather Be Writing](http://idratherbewriting.com/) | [Docs Like Code](http://docslikecode.com/) | [FFeathers](https://ffeathers.wordpress.com/)
+- Conferences / Meetups: [Write the Docs](http://www.writethedocs.org/) | [Confab](http://confabevents.com/) | [IA Summit](http://www.iasummit.org/) | [Tech Comm on a Map (interactive map of all tech comm conferences)](http://sarahmaddox.github.io/techcomm-map/)
+- Slack teams: [Write the Docs](http://slack.writethedocs.org/) | [Content + UX](http://mjmetts.com/content-ux-slack/)
 - Markdown Guides: [GitHub's Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
  | [Adam P's Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+- Content Guides: [18F's Content Guide](https://pages.18f.gov/content-guide/) | [MailChimp Content Style Guide](http://styleguide.mailchimp.com/)
