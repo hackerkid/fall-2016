@@ -178,5 +178,7 @@ Although you might be considered an expert at the topic you are creating content
 -@beardofedu
 
 ## Related Links
-Blog: [I'd Rather Be Writing](http://idratherbewriting.com/)
-Conferences / Meetups: [Write the Docs](http://www.writethedocs.org/)
+- Blogs: [I'd Rather Be Writing](http://idratherbewriting.com/) | [Docs Like Code](http://docslikecode.com/)
+- Conferences / Meetups: [Write the Docs](http://www.writethedocs.org/)
+- Markdown Guides: [GitHub's Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
+ | [Adam P's Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
