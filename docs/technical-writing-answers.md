@@ -139,7 +139,11 @@ It depends on the topic. Sometimes a topic may only require a few hours of resea
 
 #### How to choose a title that caters to the majority of the audience w/o evading anyone?
 
-Answer
+In another question, @jleaver identified how the title of a help topic in GitHub's documentation could potentially limit the amount of people who found it because it was written as a question. If the content you are creating is focused on completing a specific task; 'Editing a User Profile', 'Adding a Repository', 'Creating a Blog using GitHub Pages' (or 'Setting Up a Blog' in the GitHub Pages documentation could also work, since GitHub Pages is implied) are all titles that cater to the majority of your audience as they focus on a specific task.
+
+Going back to my discussion of identifying your user's knowledge levels can also improve the efficiency of how you title your topics. Unfortunately, you will always encounter examples of users not finding your content no matter how carefully you title your content. Using analytics to identify if users are finding the content you are creating can be helpful in defining the style in which you title your topics. If given the opportunity to run user tests, you can also observe the road blocks that you, as a subject matter expert, didn't even think of.
+
+To sum it up, choosing how you title your content is an iterative process and you should become comfortable with the fact that no matter how much research you do in regards to content titles, layout, and subject matter, you might need to go back to the drawing board from time to time to improve the experience of your end user/audience.  
 
 ---
 
