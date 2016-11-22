@@ -8,7 +8,11 @@ The following document was created by :octocat: Jenn Leaver (@jleaver) and :octo
 
 #### Best practices for writing, not only how the article/post/whatever should look like but also about the process of writing it?
 
-Answer
+Within the GitHub help docs, we use several content models. For our team, this essentially amounts to several types of content that we create: conceptual, reference, and procedural. We explain complex concepts and functionality in conceptual articles, lay out important information in reference articles, and give detailed steps for procedures in procedural articles. We try not to document the user interface; people are interested in performing tasks, not getting a written description of where buttons are located. We don't use FAQ's in our help docs, as FAQ's generally aren't questions asked by people using the product or technology, but rather questions internal contributors feel they need to answer. If your documentation uses FAQ's, people will have a very hard time finding the content they need to answer their questions.
+
+In terms of laying out content, you should limit articles to a single content model focused for a specific audience. In the article, you should include the most important information near the top. In our documentation at GitHub we include an introduction at the top of each article that gives people an overview of the topic. We try to use specific language that we know people use when talking about that topic as the article introductions are tied to our SEO results.
+
+The content in the article should be written in active voice. At GitHub, we have a conversational, friendly voice and adjust our tone as needed to match the type of content we're discussing. Our tone is more lighthearted when discussing topics like emoji reactions and more serious when discussing safety issues.
 
 #### How to find topics to write about?
 
@@ -131,7 +135,7 @@ To create effective supporting materials, identify what questions your user or r
 
 Although you might be considered an expert at the topic you are creating content for, trying to read your content from the perspective of your typical user can provide a great context for what content you need to add to your documentation. Using analytical tools like Google Analytics can help identify if the supporting documentation you are creating is being utilized by your readers or if it being ignored. If you can identify that your 'beginner' level content is getting a lot of traffic, creating more supporting materials that provides context to why you would perform a task is an example of creating effective supporting documents that your audience is 'demanding'.
 
--@beardofedu 
+-@beardofedu
 
 ## Related Links
 Blog: [I'd Rather Be Writing](http://idratherbewriting.com/)
