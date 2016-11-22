@@ -24,6 +24,8 @@ Sometimes new topics are really obvious: a new feature, different software requi
 
 -@jleaver
 
+---
+
 @ruxiang05
 
 #### How to write about technical topics when you aren't confident about it?
@@ -57,6 +59,8 @@ On the other hand, creating content that is more conceptual in nature, let's say
 If you are planning on creating content for Open Source projects or conceptual  content (for a blog or something similar), focus on topics you have are interested in, you are more likely to finish a document if you would benefit or be interested in the final product as a reader.
 
 -@beardofedu
+
+---
 
 @kim-codes
 
@@ -109,6 +113,8 @@ An article from GitHub help that _is_ helpful:
 
 -@jleaver
 
+---
+
 @shubheksha
 
 #### How much do you need to know about the topic?
@@ -134,6 +140,8 @@ It depends on the topic. Sometimes a topic may only require a few hours of resea
 #### How to choose a title that caters to the majority of the audience w/o evading anyone?
 
 Answer
+
+---
 
 @lionex
 
