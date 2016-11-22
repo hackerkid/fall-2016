@@ -169,7 +169,11 @@ Answer
 
 #### What style, in a literary and grammatical sense, do we employ in technical writing?
 
-Answer
+At GitHub, we use a conversational voice and tone. We try to "write like a human," which means we avoid robotic, formal language. By using [plain language](https://pages.18f.gov/content-guide/plain-language/), we increase comprehension and accessibility. It's easier for people to understand the topics we're writing about. We never want the language to be something that users need to overcome. They're reading the documentation so they can solve a difficult problem they're facing and the language we use to help them should be clear, concise, and free of jargon.
+
+We're also mindful of the difference between [voice and tone](http://voiceandtone.com/). Our GitHub voice is friendly, conversational, and helpful. The tone we use is dependent on the topic we're discussing. For instance, the tone we use for error messages, warnings about data loss, or issues of safety are very different than the tone we use for articles about fun UI features. To understand the _tone_ you should use when talking about a topic, you should put yourselves in the user's shoes and understand what their state of mind may be when they're approaching that topic. If they've just gotten an error message about catastrophic data loss, finding an article about their issue with lighthearted language won't feel appropriate. 
+
+-@jleaver
 
 #### How can we create effective supporting documents? (I mean items like meeting notes, design specs, etc)
 
