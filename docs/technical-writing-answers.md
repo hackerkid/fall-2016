@@ -8,15 +8,20 @@ The following document was created by :octocat: Jenn Leaver (@jleaver) and :octo
 
 #### Best practices for writing, not only how the article/post/whatever should look like but also about the process of writing it?
 
-Within the GitHub help docs, we use several content models. For our team, this essentially amounts to several types of content that we create: conceptual, reference, and procedural. We explain complex concepts and functionality in conceptual articles, lay out important information in reference articles, and give detailed steps for procedures in procedural articles. We try not to document the user interface; people are interested in performing tasks, not getting a written description of where buttons are located. We don't use FAQ's in our help docs, as FAQ's generally aren't questions asked by people using the product or technology, but rather questions internal contributors feel they need to answer. If your documentation uses FAQ's, people will have a very hard time finding the content they need to answer their questions.
+Within the GitHub help docs, we use several content models. For our team, this essentially amounts to several types of content that we create: conceptual, reference, and procedural. We explain complex concepts and functionality in conceptual articles, lay out important information in reference articles, and give detailed steps for procedures in procedural articles. We try not to document the user interface; people are interested in performing tasks, not getting a written description of where buttons are located. To this end, we create guides that tell stories and bring people on task-based journeys. Instead of telling people about a new feature, we focus on specific tasks that different audiences may want to perform to take advantage of new functionality. We don't use FAQ's in our help docs, as FAQ's generally aren't questions asked by people using the product or technology, but rather questions internal contributors feel they need to answer. If your documentation uses FAQ's, people will have a very hard time finding the content they need to answer their questions.
 
 In terms of laying out content, you should limit articles to a single content model focused for a specific audience. In the article, you should include the most important information near the top. In our documentation at GitHub we include an introduction at the top of each article that gives people an overview of the topic. We try to use specific language that we know people use when talking about that topic as the article introductions are tied to our SEO results.
 
 The content in the article should be written in active voice. At GitHub, we have a conversational, friendly voice and adjust our tone as needed to match the type of content we're discussing. Our tone is more lighthearted when discussing topics like emoji reactions and more serious when discussing safety issues.
 
+There are a lot of great resources to help you create meaningful help content for people. One of my favorites is 18F's "[Content Guide](https://pages.18f.gov/content-guide/)."
+-@jleaver
+
 #### How to find topics to write about?
 
-Answer
+Sometimes new topics are really obvious: a new feature, different software requirements, or UI changes that affect procedures. Other times, potential topics are a bit more abstract. It's difficult to _start_ writing when you're not entirely sure _what_ to write about. The best thing to do is find pain points for your users, concepts that are difficult to understand and will negatively impact the user experience if they're not well understood, procedures that require multiple steps or screens, or important reference information that users need to know to prevent significant difficulties or loss of data. To find these pain points, you can search user forums, Twitter, or identify trends in customer help tickets. Don't underestimate your own understanding (or misunderstanding!) of a product. Often the procedures and concepts that you're struggling to understand as a new user are also causing issues for other users. If you're using a new product, keep a running list of issues you overcame or concepts and procedures that could have helped you accomplish your tasks more quickly.
+
+-@jleaver
 
 @ruxiang05
 
@@ -83,21 +88,45 @@ If you are creating content for a technical blog (product review, researching a 
 
 #### If it would be possible to see a 'bad' technical post vs a 'good' technical post.
 
-Answer
+An article from GitHub help that _isn't_ super helpful: "[Can I archive a repository?](https://help.github.com/articles/can-i-archive-a-repository/)"
+
+*Cons:*
+- The article title is in the form of a question. People generally don't search for questions. Instead, someone might search for "Archiving a repository."
+- The article doesn't follow any of GitHub's content models. It's not quite a conceptual article or a procedural article. To help a user understand the concept of archiving _and_ the procedure to archive content on GitHub, there should be separate articles: a conceptual article and a procedural article. Without a clear point of view, this article doesn't really help solve any problems for users.
+- There isn't an introduction to the article, so users have to read all of the content to understand what information the article is trying to convey.
+- There aren't helpful links to other GitHub articles or external URLs. If a user didn't know how to clone a repository or understand information about wiki's, they'd need to search on their own.
+- There's a link to contact GitHub support, but the button immediately below that also contacts GitHub support. It's confusing to offer multiple avenues to users who are trying to accomplish a task.
+
+An article from GitHub help that _is_ helpful:
+"[Moving a file in your repository to Git Large File Storage](https://help.github.com/articles/moving-a-file-in-your-repository-to-git-large-file-storage/)"
+
+*Pros:*
+- The article is appropriately titled for a search someone might perform.
+- There's an introduction that helps orient the user and set expectations for the rest of the article's content.
+- Links to applicable content are used throughout the article. Rather than replicating this content, the links provide users the option to navigate away from the primary procedural content if necessary.
+- There are links to other articles in a "Further reading" section to give the user options to gain a more in-depth understanding of the concept.
 
 @shubheksha
 
 #### How much do you need to know about the topic?
 
-Answer
+This is pretty closely related to a question that @beardofedu answered above about writing about topics that you're not super comfortable with. Most of the writing I've done has been about topics that I have absolutely no previous knowledge of. Before joining GitHub, I'd never used Git or GitHub; even my knowledge of the command line was fairly limited. It seems scary sometimes to write about a topic that you're not already an expert in, but by the time you're done researching, testing, and writing, you'll have a much more advanced understanding of the topic!
+
+To write about a topic, you need to do enough preliminary research and testing to inform the type of article you're writing and the audience you're writing it for. Once you're writing about a topic, you can perform more research and testing, talk to stakeholders and (if possible!) users, and find holes in your understanding. If you're feeling really unsure about the technical accuracy of your content, you can ask experts for a review around the 30% completion mark; asking for a preliminary review can help make sure you're going down the right path with your content.
+
+-@jleaver
 
 #### How do we decide the difficulty level of the post?
 
-Answer
+At GitHub, we don't focus much on the "difficulty level" or the perceived expertise of the reader. We focus more on specific audiences; for instance, an organization owner might need very different content than an individual contributor. We separate the content for those audiences into different articles (and different guides). These guides may have some content that lends itself to people just starting out and other content that's more focused on advanced concepts. A single article can span the gamut from "easy" to "difficult" content. Rather than trying to assess the expertise level of our users, we focus on identifying difficult problems and helping people solve them.
+
+-@jleaver
 
 #### Average amount of research needed for a topic you're not to familiar with/an expert on?
 
-Answer
+It depends on the topic. Sometimes a topic may only require a few hours of research. Other topics take days or even weeks of research. Only about 10 - 15% of my time is actually spent writing. The rest of my time is spent working on content strategy, research, testing, editing, and reviewing other people's work. While I'm writing, I continue to research and revise my content accordingly.
+
+-@jleaver
 
 #### How to choose a title that caters to the majority of the audience w/o evading anyone?
 
