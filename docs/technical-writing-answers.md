@@ -15,6 +15,7 @@ In terms of laying out content, you should limit articles to a single content mo
 The content in the article should be written in active voice. At GitHub, we have a conversational, friendly voice and adjust our tone as needed to match the type of content we're discussing. Our tone is more lighthearted when discussing topics like emoji reactions and more serious when discussing safety issues.
 
 There are a lot of great resources to help you create meaningful help content for people. One of my favorites is 18F's "[Content Guide](https://pages.18f.gov/content-guide/)."
+
 -@jleaver
 
 #### How to find topics to write about?
@@ -105,6 +106,8 @@ An article from GitHub help that _is_ helpful:
 - There's an introduction that helps orient the user and set expectations for the rest of the article's content.
 - Links to applicable content are used throughout the article. Rather than replicating this content, the links provide users the option to navigate away from the primary procedural content if necessary.
 - There are links to other articles in a "Further reading" section to give the user options to gain a more in-depth understanding of the concept.
+
+-@jleaver
 
 @shubheksha
 
