@@ -4,6 +4,7 @@ Click on a week for details about the activities for that week. Future weeks wil
 
 Week                      | Starts            | Ends             | General Topics                                   | :movie_camera:
 ---                       | ---               | ---              | ---                                              | ---
+Week 6                    | Mon, 2016-11-28   | Sun, 2016-12-04  | Execute on plan, fundraising guest talk          | Video coming soon
 Week 5                    | Mon, 2016-11-21   | Sun, 2016-11-27  | Technical writing speakers, prepare to execute on plan | [Americas](https://vimeo.com/192706314/ee4a9e52ab)
 Week 4 | Mon, 2016-11-14   | Sun, 2016-11-20  | Open source & Career guest talk | [Americas](https://vimeo.com/191717669/51a2bcc1ea)
 [Week 3](todos/week-3.md) | Mon, 2016-11-07   | Sun, 2016-11-13  | Feedback on impact proposal, delivering a GitHub workshop guest talk | [Americas](https://vimeo.com/190937198/b31e3851ce)
@@ -14,6 +15,5 @@ Week 4 | Mon, 2016-11-14   | Sun, 2016-11-20  | Open source & Career guest talk
 
 Week                      | Starts            | Ends             | General Topics
 ---                       | ---               | ---              | ---
-Week 6                    | Mon, 2016-11-28   | Sun, 2016-12-04  | Execute on plan, practice presentations, fundraising guest talk
 Week 7                    | Mon, 2016-12-05   | Sun, 2016-12-11  | Reflection and evaluation of execution, What's Next guest talk
 Week 8                    | Mon, 2016-12-12   | Sun, 2016-12-18  | Community impact presentations
