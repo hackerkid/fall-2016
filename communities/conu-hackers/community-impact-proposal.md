@@ -1,20 +1,19 @@
 ## Summary of the Community's Needs
 
-Provide a summary of what you learned from your community assessment, coupled with the feedback from others (like the opinion of other Campus Experts, community leaders, and stakeholders).
+**The Who**
+Through the community assessment, the community size is determined to be the size of the [HackConcordia](https://www.facebook.com/groups/hackconcordia/) Facebook group, which is currently 1,278 members. The group is open to any student at Concordia University who interested in technology. These students want to discuss a66nd share topics related to technology and they want to improve their skills. The group primarily targets students who are interested in going beyond what is taught in the classroom.
 
-The following pieces might help strengthen this section:
-- **Community demographics**: Include data gathered from your community assessment like: the size of the community that you are targeting with your proposal, the educational background of your community, and the resources they currently have at their disposal and how accessible they are to the community.
-- **Communication**: For a community to thrive, they need to be able to communicate with each other, identify how your community prefers to communicate.
-- **Culture**: Summarize the existing culture within the community you are working with.
-
+The community interacts through the Facebook group. With the use of http://sociograph.io/my.html, we are able to see that in the past month there have been 32 posts, from 19 different authors, with a combined total of 24 comments and 149 likes. Based on these numbers, that is about one post a day.
 
 ## Your Proposal
 
-In this section, articulate the project you want to accomplish during the Campus Experts program; provide a brief summary of what you are planning to accomplish with your project.
+The beginning of an open source initiative
+
+provide a brief summary of what you are planning to accomplish with your project.
 
 The following pieces might help strengthen this section:
-- **Timing**: You're starting this proposal in Week 2 of the program, and you'll need to execute on your project by Week 6, so you have just about 4 weeks to plan and execute your project. Set the scope appropriately.
-- **Community demographics**: If you are planning on increasing the size of the community, identify ways you are planning on accomplishing that. Explain how your efforts might help you create a more diverse community.
+- **Timing**: Set the scope appropriately.
+- **Community demographics**: increasing the size of the community, identify ways you are planning on accomplishing that. Explain how your efforts might help you create a more diverse community.
 - **Goals**: You identified the goals of your community assessment. Include a summary of those goals and how your proposal addresses those goals.
 - **Communication**: For a community to thrive, they need to be able to communicate with each other, identify how your community will be able to stay in-contact. This includes in-person meetings, webinars, and chat/forum platforms.
 
