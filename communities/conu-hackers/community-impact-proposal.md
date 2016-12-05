@@ -1,9 +1,9 @@
 ## Summary of the Community's Needs
 
 **The Who**
-Through the community assessment, the community size is determined to be the size of the [HackConcordia](https://www.facebook.com/groups/hackconcordia/) Facebook group, which is currently 1,278 members. The group is open to any student at Concordia University who interested in technology. These students want to discuss a66nd share topics related to technology and they want to improve their skills. The group primarily targets students who are interested in going beyond what is taught in the classroom.
+Through the community assessment, the community size is determined to be the size of the [HackConcordia](https://www.facebook.com/groups/hackconcordia/) Facebook group, which is currently 1,278 members. The group is open to any student at Concordia University who interested in technology. These students want to discuss a66nd share topics related to technology, they want to improve their skills, get experience with hands-on projects, and to land internships, part-time, and full-time positions. The group primarily targets students who are interested in going beyond what is taught in the classroom.
 
-The community interacts through the Facebook group. With the use of http://sociograph.io/my.html, we are able to see that in the past month there have been 32 posts, from 19 different authors, with a combined total of 24 comments and 149 likes. Based on these numbers, that is about one post a day.
+The community interacts through the Facebook group. With the use of http://sociograph.io/, we are able to see that in the past month there have been 32 posts, from 19 different authors, with a combined total of 24 comments and 149 likes.
 
 ## Your Proposal
 
