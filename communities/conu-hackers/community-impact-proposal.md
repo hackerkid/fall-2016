@@ -7,12 +7,11 @@ The community interacts through the Facebook group. With the use of http://socio
 
 ## Your Proposal
 
-The beginning of an open source initiative
+The beginning of an open source initiative.
 
-provide a brief summary of what you are planning to accomplish with your project.
+Plan of attack : The launch of this initiative will begin with a "Hack week" in January. This will take place a week before ConUHacks II, happening January 21-22, 2017.
 
 The following pieces might help strengthen this section:
-- **Timing**: Set the scope appropriately.
 - **Community demographics**: increasing the size of the community, identify ways you are planning on accomplishing that. Explain how your efforts might help you create a more diverse community.
 - **Goals**: You identified the goals of your community assessment. Include a summary of those goals and how your proposal addresses those goals.
 - **Communication**: For a community to thrive, they need to be able to communicate with each other, identify how your community will be able to stay in-contact. This includes in-person meetings, webinars, and chat/forum platforms.
@@ -43,8 +42,8 @@ When identifying the impact of your proposal, you should focus on the following 
 
 ## Planning for the Future
 
-In this section, think about how your efforts can expand beyond this 8-week program. Some questions you can answer that might help strengthen this section are:
+think about how your efforts can expand beyond this 8-week program
 
-- When will you review the impact of your proposal?
-- How will you measure success?
+- When will you review the impact of your proposal? Will re-asses every month for the first 3 months. At which point, a new interval for reviewing will be set.
+- How will you measure success? Although it is important to reach as many students as possible, we must have a way to measure the impact the content is for the students.
 - How frequently will you iterate on your community plans?
