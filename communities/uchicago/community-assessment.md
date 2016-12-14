@@ -20,7 +20,7 @@ After you've completed these questions, define your community in several short p
 -Approximately 1,500 members
 
 - How many would you _like_ to be in your community?
--Approximately 3,000 members
+-An ambitious goal would be to have double the number of members to be 3,000 by the school year 2020. Currently there are a number of undergraduate students interested in computer science and technology that have programming experience -- or don't -- that I feel are not represented in our community. My goal would be to help reach underclassmen with this interest and help foster a community for them where they feel comfortable pursuing their interests and supported by their peers. Currently I feel that the community is largely upper-classmen, who are supportive, but that there's a problem when we only really have declared CS majors and people with experience that it becomes harder for people who are interested in CS enter the group. Additionally, I know UChicago has a at least 2 CS Masters programs that tend to function in tangent to the Undergraduate program; I would love to merge the two communities, as many of the graduate students may not have done CS in their undergrad and would benefit from being a part of our commuity.
 
 - Historically, has the group always been about the same size? If not, what brought on that change?
 -Five years ago, CS at UChicago was the 28th most popular major. Now CS is the 8th most popular major. This change came from new job markets being publicized and more people enrolling in CS classes.
@@ -46,10 +46,10 @@ After you've completed these questions, define your community in several short p
 -Most are held in the evening after working hours.
 
 - Is there childcare available?
--No
+-Not to my knowledge.
 
 - Is there accessibility for people with disabilities?
--Very limited accessibility for people with disabilities; it's essentially on the person to contact the organization to prepare for their own disabilities.
+-Very limited accessibility for people with disabilities; it's essentially on the person to contact the organization to prepare for their own disabilities. To provide more accessibility I think a dialogue with office in charge of Student Services would be ideal to see what kind of support is already in place for other communities on campus and seeing how they could be appied to our CS community. 
 
 ### Interests
 - Is your community made up only of computer science students? Are you OK with that?
@@ -60,7 +60,7 @@ After you've completed these questions, define your community in several short p
 
 ### Goals
 - Why do people get involved in your community?
--I like to believe its about making a more diverse community. Mostly, it's friends bringing friends to try to include as many people as we can.
+-I like to believe its about making a more diverse community. Mostly, it's friends bringing friends to try to include as many people as we can. I would love to see more diverse avenues of tech to help emphasize this point in my community; currently, we have many financial tech. companies, a few major tech. companies, and a few civic tech. company opportunities on campus. I think in particular it'd be interesting to get more companies that deal with art and gaming to engage with our community.
 
 - Are they students hoping to get a degree?
 -Yes.
@@ -113,7 +113,7 @@ After you've completed these questions, define your community in several short p
 -There's an email group, and a Facebook group.
 
 - Could your organization benefit from one or more of those, or another way of communicating?
--We would benefit from broadcasting beyond the current infrastructure to engage an audience that may not have subscribed to our channels.
+-We would benefit from broadcasting beyond the current infrastructure to engage an audience that may not have subscribed to our channels. In the past I have gone into introductory CS classrooms and general activity fairs and spoke about the various CS events and RSOs on campus. I think a more effective way of retaining interest and engaging with different audiences would be through utilizing existing listhosts that are not CS focused. We could advertize events such as civic hacking at events that are not necessarily CS related but that have attendees who are interested in civic issues. I think there's are a lot of existing avenues that we have not currently reached out to and it's just a matter of getting volunteers to talk.
 
 ### Culture
 - How welcoming is your community to new people and new ideas?
