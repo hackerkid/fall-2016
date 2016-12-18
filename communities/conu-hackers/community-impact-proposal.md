@@ -1,37 +1,33 @@
 ## Summary of the Community's Needs
 
-**The Who**
-Through the community assessment, the community size is determined to be the size of the [HackConcordia](https://www.facebook.com/groups/hackconcordia/) Facebook group, which is currently 1,278 members. The group is open to any student at Concordia University who interested in technology. These students want to discuss a66nd share topics related to technology, they want to improve their skills, get experience with hands-on projects, and to land internships, part-time, and full-time positions. The group primarily targets students who are interested in going beyond what is taught in the classroom.
+Through the community assessment, the community size is determined to be the size of the [HackConcordia](https://www.facebook.com/groups/hackconcordia/) Facebook group, which is currently 1,283 members (compared to 1,233 members at the beginning of the campus experts program). The group is open to any student at Concordia University who interested in technology. These students want to discuss and share topics related to technology, they want to improve their skills, get experience with hands-on projects, and to land internships, part-time, and full-time positions. The group primarily targets students who are interested in going beyond what is taught in the classroom.
 
-The community interacts through the Facebook group. With the use of http://sociograph.io/, we are able to see that in the past month there have been 32 posts, from 19 different authors, with a combined total of 24 comments and 149 likes.
+The community interacts through the Facebook group. With the use of http://sociograph.io/, at this current time we are able to see that in the past month there have been 32 posts, from 19 different authors, with a combined total of 24 comments and 149 likes.
 
-## Your Proposal
+## The Proposal
 
-The beginning of an open source initiative.
+The beginning of an open source initiative at Concordia University.
 
-Plan of attack : The launch of this initiative will begin with a "Hack week" in January. This will take place a week before ConUHacks II, happening January 21-22, 2017.
+**Plan of attack**: The launch of this initiative will begin with a "Hack Week" in January from the 16th to the 19th. This will take place a week before HackConcordia's annual hackathon, ConUHacks II, happening January 21-22, 2017.
 
-The following pieces might help strengthen this section:
-- **Community demographics**: increasing the size of the community, identify ways you are planning on accomplishing that. Explain how your efforts might help you create a more diverse community.
-- **Goals**: You identified the goals of your community assessment. Include a summary of those goals and how your proposal addresses those goals.
-- **Communication**: For a community to thrive, they need to be able to communicate with each other, identify how your community will be able to stay in-contact. This includes in-person meetings, webinars, and chat/forum platforms.
+Hack Week will be a week of tutorials hosted on campus and uploaded online to provide students with resources to leverage skills for the hackathon. Students will gain confidence and be equipped for their (potentially first) hackathon project. By lowering the barrier of entry for students, we anticipate to have more projects submitted during the hackathon and foster a community of students with the desire to learn, to share, and to help one another. Overall, this initiative will increase participation in the upcoming external hackathons across North America.   
+
+- **Goals**: summarize goals of your community assessment goals and how your proposal addresses those goals.
+- **Communication**: how your community will be able to stay in-contact. This includes in-person meetings, webinars, and chat/forum platforms.
 
 
 ## Your Proposal's Impact
 
-In this section, analyze your community's needs against what your proposal aims to accomplish.
-Itemize each of the needs you hope to address with your proposal and indicate whether each of these needs are within the scope of your proposal.
+ these needs are within the scope of your proposal.
 
-When identifying the impact of your proposal, you should focus on the following areas:
 - Target audience
   - Who are you expecting to impact based on your proposal?
 - Community needs
   - What specific issue are you addressing with your proposal?
 - Resources
-  - What resources do you need to accomplish your proposal?
-  - How will you obtain those resources?   
+  - 4-5 workshops/tutorials will need to be prepared before hand.
+  - How will you obtain resources?
 - Media
-  - How are you preparing to deliver your community impact project?
   - What are you going to do to prepare to deliver the content?
 - Content knowledge
   - How knowledgeable are you on about the topic your community impact project focuses on?
@@ -44,6 +40,5 @@ When identifying the impact of your proposal, you should focus on the following 
 
 think about how your efforts can expand beyond this 8-week program
 
-- When will you review the impact of your proposal? Will re-asses every month for the first 3 months. At which point, a new interval for reviewing will be set.
-- How will you measure success? Although it is important to reach as many students as possible, we must have a way to measure the impact the content is for the students.
-- How frequently will you iterate on your community plans?
+- The proposal will be reviewed and Will be reassessed every month for the first 3 months. At which point, a new interval for reviewing will be set.
+- Success will be measured based on the contributions to the GitHub organization page as well as the number of participants to external hackathons.
