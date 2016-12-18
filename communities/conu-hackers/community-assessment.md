@@ -9,7 +9,7 @@
 - The group started from 0 members in late 2014.
 
 ### Resources
-- The resources available to people in the community are average. The community is provided with articles about new and relevant topics in tech.
+- The resources available to people in the community are average. The community is provided with articles from the tech community at large (outside of HackConcordia) about new and relevant topics in tech.
 - Utilizing the GitHub organization page to provide online tutorials, articles, and much more is an objective.
 - Without a permanent space, the community is unable to hold office hours and therefore communicates mainly through online messaging (e-mails, Facebook chat, Facebook group, etc.)
 - ConUHacks, the annual Concordia hackathon, is hosted in January for students to come together and collaborate on projects.
